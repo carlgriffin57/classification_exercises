@@ -1,6 +1,10 @@
+
 env.py
+.ipynb_checkpoints/
 __pycache__
 .DS_Store
-.ipynb_checkpoints/
-titanic.csv
-iris.cvs
+Thumbs.db
+.vscode/
+*.csv
+*.json
+*.xlsx
